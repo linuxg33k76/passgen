@@ -2,11 +2,11 @@
 
 '''
 CLI Password Generator
+By Ben Calvert 
+Date: 6/1/2021
 '''
 
 import random
-
-
 
 
 # Get user input on length 
